@@ -2,6 +2,10 @@
 .env
 .env.local
 .env.*
+.sh
+.yml
+.dbc
+.yaml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
